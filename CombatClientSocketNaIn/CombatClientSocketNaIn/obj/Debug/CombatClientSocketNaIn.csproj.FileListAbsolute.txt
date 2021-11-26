@@ -1,0 +1,30 @@
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe.config
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.pdb
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csprojAssemblyReference.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.frmClienSocketNain.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.Properties.Resources.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.GenerateResource.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.CoreCompileInputs.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.pdb
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe.config
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.pdb
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csprojAssemblyReference.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.frmClienSocketNain.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.Properties.Resources.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.GenerateResource.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.CoreCompileInputs.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.pdb
+C:\Users\2064339\Downloads\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe.config
+C:\Users\2064339\Downloads\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe
+C:\Users\2064339\Downloads\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.pdb
+C:\Users\2064339\Downloads\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.AssemblyReference.cache
+C:\Users\2064339\Downloads\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.frmClienSocketNain.resources
+C:\Users\2064339\Downloads\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.Properties.Resources.resources
+C:\Users\2064339\Downloads\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.GenerateResource.cache
+C:\Users\2064339\Downloads\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.CoreCompileInputs.cache
+C:\Users\2064339\Downloads\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.exe
+C:\Users\2064339\Downloads\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.pdb

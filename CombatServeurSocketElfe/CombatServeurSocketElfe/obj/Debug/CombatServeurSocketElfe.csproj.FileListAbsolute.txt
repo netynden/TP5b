@@ -1,0 +1,30 @@
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatServeurSocketElfe\CombatServeurSocketElfe\bin\Debug\CombatServeurSocketElfe.exe.config
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatServeurSocketElfe\CombatServeurSocketElfe\bin\Debug\CombatServeurSocketElfe.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatServeurSocketElfe\CombatServeurSocketElfe\bin\Debug\CombatServeurSocketElfe.pdb
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.csprojAssemblyReference.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.Properties.Resources.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.csproj.GenerateResource.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.csproj.CoreCompileInputs.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.pdb
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.frmServeurSocketElfe.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatServeurSocketElfe\CombatServeurSocketElfe\bin\Debug\CombatServeurSocketElfe.exe.config
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatServeurSocketElfe\CombatServeurSocketElfe\bin\Debug\CombatServeurSocketElfe.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatServeurSocketElfe\CombatServeurSocketElfe\bin\Debug\CombatServeurSocketElfe.pdb
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.csprojAssemblyReference.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.frmServeurSocketElfe.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.Properties.Resources.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.csproj.GenerateResource.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.csproj.CoreCompileInputs.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.pdb
+C:\Users\2064339\Downloads\CombatElfeNain\CombatServeurSocketElfe\CombatServeurSocketElfe\bin\Debug\CombatServeurSocketElfe.exe.config
+C:\Users\2064339\Downloads\CombatElfeNain\CombatServeurSocketElfe\CombatServeurSocketElfe\bin\Debug\CombatServeurSocketElfe.exe
+C:\Users\2064339\Downloads\CombatElfeNain\CombatServeurSocketElfe\CombatServeurSocketElfe\bin\Debug\CombatServeurSocketElfe.pdb
+C:\Users\2064339\Downloads\CombatElfeNain\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.csproj.AssemblyReference.cache
+C:\Users\2064339\Downloads\CombatElfeNain\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.frmServeurSocketElfe.resources
+C:\Users\2064339\Downloads\CombatElfeNain\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.Properties.Resources.resources
+C:\Users\2064339\Downloads\CombatElfeNain\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.csproj.GenerateResource.cache
+C:\Users\2064339\Downloads\CombatElfeNain\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.csproj.CoreCompileInputs.cache
+C:\Users\2064339\Downloads\CombatElfeNain\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.exe
+C:\Users\2064339\Downloads\CombatElfeNain\CombatServeurSocketElfe\CombatServeurSocketElfe\obj\Debug\CombatServeurSocketElfe.pdb
